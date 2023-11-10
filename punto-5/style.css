@@ -1,0 +1,40 @@
+.container{
+  max-width: 650px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.verde{
+  color: green;
+  text-decoration: underline;
+}
+
+.rojo{
+  color: red;
+  font-weight: bold;
+}
+
+.interli{
+  text-decoration: underline overline;
+}
+
+.big{
+  font-size: xx-large;
+  font-weight:600;
+}
+
+.azul{
+  color: blue;
+  font-weight: bold;
+}
+
+.red{
+  color: red;
+  text-decoration: underline;
+  font-weight: bold;
+}

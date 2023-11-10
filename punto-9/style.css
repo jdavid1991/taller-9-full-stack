@@ -1,0 +1,25 @@
+.container{
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+table,tr,td{
+  border: dotted black;
+  border-collapse: collapse;
+  background-color: yellow;
+}
+
+thead{
+  color: red;
+  font-size: large;
+  font-style: italic;
+}
+
+span{
+  font-weight: 400;
+  font-size: 1pt;
+}
+
+#bottom{
+  border-bottom: red dotted;
+}
